@@ -6,21 +6,31 @@ Welcome to my GitHub profile!
 
 With over 7 years of experience as a Software Engineer and a Bachelor's degree in Information Technology majoring in Software Engineering, I am passionate about transforming innovative ideas into reality.
 
-As a specialized developer in **React** and **React Native**, I leverage the **MERN stack** (MongoDB, Express.js, React, Node.js) to deliver high-quality, tailored applications that meet your unique needs. My career has taken me through diverse projects, collaborating with overseas clients and playing pivotal roles in the success of various startups. My expertise encompasses full-stack development, complemented by a strong foundation in **Agile methodologies**, ensuring efficient and timely project delivery.
+As a specialized developer in **React** ⚛️ and **React Native** 📱, I leverage the **MERN stack** (MongoDB 🍃, Express.js ⚡, React ⚛️, Node.js 🌐) to deliver high-quality, tailored applications that meet your unique needs. My career has taken me through diverse projects, collaborating with overseas clients and playing pivotal roles in the success of various startups. My expertise encompasses full-stack development, complemented by a strong foundation in **Agile methodologies** 🔄, ensuring efficient and timely project delivery.
 
 ### I focus on:
 
-- **Mobile App Development**: Creating seamless and engaging mobile experiences.
-- **Web Development**: Building responsive and dynamic web applications.
-- **API Development**: Designing robust APIs to enhance application functionality.
+- **Mobile App Development** 📱: Creating seamless and engaging mobile experiences.
+- **Web Development** 🌍: Building responsive and dynamic web applications.
+- **API Development** 🔗: Designing robust APIs to enhance application functionality.
 
 Let’s connect and collaborate to turn your web and mobile app dreams into reality!
 
-### Technologies I work with:
-- **Frontend:** React, React Native, Angular, Vue, Next.js, Tailwind CSS, Ionic, Xamarin, Kotlin, Swift, Java, C#, VB.Net, C, C++, Python
-- **Backend:** Node.js, Express.js, Nest.js, .Net, Laravel, CodeIgniter
-- **Databases:** MongoDB, MySQL, PostgreSQL, MSSQL, DynamoDB, Firestore, Supabase
-- **Other Tools:** Git, Expo, AWS, GCP, Docker, CI/CD, REST APIs, GraphQL
+Let’s connect and collaborate to turn your web and mobile app dreams into reality!
+
+## Technologies I work with:
+
+#### Frontend:
+- **React** ⚛️, **React Native** 📱, **Angular** 🅰️, **Vue** 🖼️, **Next.js** ⏭️, **Tailwind CSS** 🎨, **Ionic** ⚡, **Xamarin** 📱, **Kotlin** 🅺, **Swift** 🐦, **Java** ☕, **C#** 💻, **VB.Net** 🖥️, **C** 🔵, **C++** ➕, **Python** 🐍
+
+#### Backend:
+- **Node.js** 🌐, **Express.js** ⚡, **Nest.js** 🛡️, **.Net** 💼, **Laravel** 🌐, **CodeIgniter** 🔥
+
+#### Databases:
+- **MongoDB** 🍃, **MySQL** 🐬, **PostgreSQL** 🐘, **MSSQL** 🗄️, **DynamoDB** ⚡, **Firestore** 🔥, **Supabase** 🧪
+
+#### Other Tools:
+- **Git** 🐙, **Expo** 📱, **AWS** ☁️, **GCP** ☁️, **Docker** 🐳, **CI/CD** 🔄, **REST APIs** 🔗, **GraphQL** 🧬
 
 ## What I'm currently working on:
 
