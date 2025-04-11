@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-With over 7 years of experience as a Software Engineer and a Bachelor's degree in Information Technology majoring in Software Engineering, I am passionate about transforming innovative ideas into reality.
+With over 8 years of experience as a Software Engineer and a Bachelor's degree in Information Technology majoring in Software Engineering, I am passionate about transforming innovative ideas into reality.
 
 As a specialized developer in **React** ⚛️ and **React Native** 📱, I leverage the **MERN stack** (MongoDB 🍃, Express.js ⚡, React ⚛️, Node.js 🌐) to deliver high-quality, tailored applications that meet your unique needs. My career has taken me through diverse projects, collaborating with overseas clients and playing pivotal roles in the success of various startups. My expertise encompasses full-stack development, complemented by a strong foundation in **Agile methodologies** 🔄, ensuring efficient and timely project delivery.
 
