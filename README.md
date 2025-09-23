@@ -23,14 +23,23 @@ Let’s connect and collaborate to turn your web and mobile app dreams into real
 #### Frontend:
 - **React** ⚛️, **React Native** 📱, **Angular** 🅰️, **Vue** 🖼️, **Next.js** ⏭️, **Tailwind CSS** 🎨, **Ionic** ⚡, **Xamarin** 📱, **Kotlin** 🅺, **Swift** 🐦, **Java** ☕, **C#** 💻, **VB.Net** 🖥️, **C** 🔵, **C++** ➕, **Python** 🐍
 
+[![My Skills](https://skillicons.dev/icons?i=react,redux,angular,vue,nextjs,tailwind,materialui,kotlin,flutter,swift,java,cs,ts,js,css,html&theme=light)](https://skillicons.dev)
+
 #### Backend:
 - **Node.js** 🌐, **Express.js** ⚡, **Nest.js** 🛡️, **.Net** 💼, **Laravel** 🌐, **CodeIgniter** 🔥
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,dotnet,cs,laravel,nestjs,express,firebase,supabase&theme=light)](https://skillicons.dev)
 
 #### Databases:
 - **MongoDB** 🍃, **MySQL** 🐬, **PostgreSQL** 🐘, **MSSQL** 🗄️, **DynamoDB** ⚡, **Firestore** 🔥, **Supabase** 🧪
 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,firebase,supabase&theme=light)](https://skillicons.dev)
+
+
 #### Other Tools:
 - **Git** 🐙, **Expo** 📱, **AWS** ☁️, **GCP** ☁️, **Docker** 🐳, **CI/CD** 🔄, **REST APIs** 🔗, **GraphQL** 🧬
+
+[![My Skills](https://skillicons.dev/icons?i=git,aws,gcp,docker,graphql,figma,bitbucket,github,sentry,jest&theme=light)](https://skillicons.dev)
 
 ## What I'm currently working on:
 
