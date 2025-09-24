@@ -4,19 +4,20 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-With over 9+ years of experience as a Software Engineer and a Bachelor's degree in Information Technology majoring in Software Engineering, I am passionate about transforming innovative ideas into reality.
+With over 9+ years of software engineering experience and a degree in Information Technology majoring in Software Engineering, I specialize in building high-quality mobile applications that deliver real-world impact.
 
-As a specialized developer in **React** ⚛️ and **React Native** 📱, I leverage the **MERN stack** (MongoDB 🍃, Express.js ⚡, React ⚛️, Node.js 🌐) to deliver high-quality, tailored applications that meet your unique needs. My career has taken me through diverse projects, collaborating with overseas clients and playing pivotal roles in the success of various startups. My expertise encompasses full-stack development, complemented by a strong foundation in **Agile methodologies** 🔄, ensuring efficient and timely project delivery.
+My core expertise lies in React Native, where I design and develop cross-platform apps for iOS and Android—from MVPs to full-featured products—for industries such as fintech, healthcare, and e-commerce.
 
-### I focus on:
+I’ve collaborated with global teams and startup founders, contributing to product design, feature planning, and performance optimization. Whether it's integrating native modules, handling push notifications, or publishing to App Store and Play Store, I deliver with precision and efficiency.
 
-- **Mobile App Development** 📱: Creating seamless and engaging mobile experiences.
-- **Web Development** 🌍: Building responsive and dynamic web applications.
-- **API Development** 🔗: Designing robust APIs to enhance application functionality.
+💡 Core Strengths:
+- Mobile App Development: Scalable, intuitive apps built with React Native and Expo.
+- API Integration: Secure backend communication using REST, GraphQL, Firebase, or AWS.
+- Cross-Platform Performance: Optimized UI/UX, native feel, and real-time features like chat and push notifications.
 
-Let’s connect and collaborate to turn your web and mobile app dreams into reality!
+I follow Agile practices, prioritize clear communication, and always aim for fast, maintainable code.
 
-Let’s connect and collaborate to turn your web and mobile app dreams into reality!
+Let’s build mobile solutions that make a difference—whether you're launching a new product or enhancing an existing one.
 
 ## Technologies I work with:
 
