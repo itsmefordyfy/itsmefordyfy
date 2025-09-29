@@ -14,15 +14,11 @@ I’ve collaborated with global teams and startup founders, contributing to prod
 
 💡 Core Strengths:
 
-AI-Driven Development: Using AI tools to streamline coding, debugging, and scaling apps efficiently.
-
-Mobile App Development: Scalable, intuitive cross-platform apps with React Native and Expo.
-
-API Integration: Secure, optimized backend communication with REST, GraphQL, Firebase, or AWS.
-
-Cross-Platform Performance: Native-like experiences with real-time features like chat, notifications, and offline sync.
-
-I follow Agile practices, value clear communication, and always aim for fast, reliable, and scalable solutions.
+- AI-Driven Development: Using AI tools to streamline coding, debugging, and scaling apps efficiently.
+- Mobile App Development: Scalable, intuitive cross-platform apps with React Native and Expo.
+- API Integration: Secure, optimized backend communication with REST, GraphQL, Firebase, or AWS.
+- Cross-Platform Performance: Native-like experiences with real-time features like chat, notifications, and offline sync.
+- I follow Agile practices, value clear communication, and always aim for fast, reliable, and scalable solutions.
 
 🚀 Let’s build smart mobile experiences that leverage AI to scale faster and deliver meaningful impact—whether you're launching a new idea or elevating your existing product.
 
