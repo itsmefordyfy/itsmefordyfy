@@ -1,6 +1,6 @@
 # Hi there, I'm Clifford! 👋
 
-Building Smarter, Faster MVPs with AI & React Native | Leveraging AI Tools for Rapid Prototyping & Scalable Apps | 9+ Years Experience
+Building Smarter, Faster MVPs with AI & React Native | Leveraging AI Tools for Rapid Prototyping & Scalable Apps | 11+ Years Experience
 
 ## About Me
 
