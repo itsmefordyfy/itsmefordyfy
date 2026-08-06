@@ -132,11 +132,11 @@ Available on both the App Store and Google Play.
 
 🌐 Portfolio
 
-[https://cliffordfrancisco-portfolio.vercel.app/](https://cliffordfrancisco.dev)
+https://cliffordfrancisco.dev
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/cliffordfrancisco/
+https://www.linkedin.com/in/cliffordfrancisco
 
 💻 GitHub
 
