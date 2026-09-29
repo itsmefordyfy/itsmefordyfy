@@ -8,7 +8,7 @@ Building scalable AI-powered products from MVP to production for startups worldw
 
 # 👨‍💻 About Me
 
-I'm a Senior Software Engineer and Tech Lead with over **11 years of professional experience** building scalable web, mobile, and AI-powered SaaS applications.
+I'm a Senior Software Engineer and Tech Lead with over **12 years of professional experience** building scalable web, mobile, and AI-powered SaaS applications.
 
 Throughout my career, I've worked directly with startup founders and international teams, leading products from idea to production. My expertise spans **React Native, React, Next.js, TypeScript, Node.js, Supabase, PostgreSQL, and cloud-native technologies**, with hands-on experience architecting secure, scalable systems.
 
