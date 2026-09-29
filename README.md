@@ -1,6 +1,6 @@
 # Hi there, I'm Clifford Francisco! 👋
 
-### 🚀 Senior Full-Stack & Mobile Engineer | Tech Lead | AI-Powered SaaS | React Native • Next.js • TypeScript | 11+ Years
+### 12 Years Experience | AI Engineer | Senior Mobile & Full-Stack Engineer
 
 Building scalable AI-powered products from MVP to production for startups worldwide.
 
@@ -8,11 +8,11 @@ Building scalable AI-powered products from MVP to production for startups worldw
 
 # 👨‍💻 About Me
 
-I'm a Senior Software Engineer and Tech Lead with over **12 years of professional experience** building scalable web, mobile, and AI-powered SaaS applications.
+As an AI Engineer and Senior Software Engineer with a BS in Information Technology and 12 years of experience, I design and implement scalable web, mobile, and AI-driven SaaS solutions. I partner with startups and enterprises to convert concepts into production-ready products, overseeing the full lifecycle from architectural design and development to deployment and sustained growth.
 
-Throughout my career, I've worked directly with startup founders and international teams, leading products from idea to production. My expertise spans **React Native, React, Next.js, TypeScript, Node.js, Supabase, PostgreSQL, and cloud-native technologies**, with hands-on experience architecting secure, scalable systems.
+My technical expertise encompasses React Native, React, Next.js, TypeScript, Node.js, Supabase, PostgreSQL, and cloud infrastructure. I have delivered secure, scalable applications across real estate, fintech, healthcare, education, e-commerce, and artificial intelligence sectors, serving thousands of global users. I adopt an AI-first engineering approach, utilizing tools such as Cursor, Claude, and ChatGPT to accelerate development, automate workflows, and enhance productivity. Artificial intelligence is integrated as a complement—not a substitute—for rigorous engineering; all AI-generated outputs undergo review, testing, and validation through established practices prior to production deployment. 
 
-As a **Founding Senior Full-Stack Engineer**, I've helped build products across **Real Estate, FinTech, Healthcare, Education, E-commerce, and AI**, owning everything from architecture and backend development to mobile deployment, production support, and technical leadership.
+I have led remote engineering teams, mentored developers, established engineering standards, and collaborated directly with founders to advance products from MVP to production.
 
 ---
 
